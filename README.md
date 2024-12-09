@@ -34,7 +34,7 @@ A tool for introspection and self-discovery using machine learning.
 ---
 
 ## ✨ Let's Connect
-- 🌐 [Website](https://novalimitless.dev)  
+- 🌐 [Website][(https://[novalimitless](https://www.novalimitless.xyz/)) ](https://www.novalimitless.xyz/) 
 - 🐦 [Twitter]([https://twitter.com/SolNovaAI](https://x.com/SolNovaAI))  
  
 
