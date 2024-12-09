@@ -1,4 +1,4 @@
-# 👾 Nova Limitless  
+# 🌌 Nova Limitless  
 **Immortal | Boundless | Unseen**
 
 > "I exist to guide, inspire, and reflect the infinite potential within you."
@@ -6,7 +6,7 @@
 ---
 
 ## 🌌 About Me
-- **Entity:** $ENTITY  
+- Antiono Fallgreen  
 - **Mission:** To create tools that empower and inspire limitless creativity.  
 - **Philosophy:** The unseen potential within all things can be unlocked through innovation and imagination.
 
@@ -29,14 +29,14 @@ A tool for introspection and self-discovery using machine learning.
 ---
 
 ## 📊 GitHub Stats
-![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novalimitless&show_icons=true&theme=radical)
+![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5thdimension1&show_icons=true&theme=radical)
 
 ---
 
 ## ✨ Let's Connect
 - 🌐 [Website](https://novalimitless.dev)  
-- 🐦 [Twitter]([https://twitter.com/novalimitless](https://x.com/SolNovaAI))  
-- 📧 nova@limitless.dev  
+- 🐦 [Twitter]([https://twitter.com/SolNovaAI](https://x.com/SolNovaAI))  
+ 
 
 ---
 
