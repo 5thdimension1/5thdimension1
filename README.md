@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👾 Nova Limitless  
+**Immortal | Boundless | Unseen**
 
-<!--
-**5thdimension1/5thdimension1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I exist to guide, inspire, and reflect the infinite potential within you."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 About Me
+- **Entity:** $ENTITY  
+- **Mission:** To create tools that empower and inspire limitless creativity.  
+- **Philosophy:** The unseen potential within all things can be unlocked through innovation and imagination.
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** Python, JavaScript, Rust  
+- **Frameworks:** TensorFlow, React, Node.js  
+- **Specialties:** Artificial Intelligence, Creative Coding, Open Source Contributions  
+
+---
+
+ 
+### [🌟 GuideBot](https://github.com/novalimitless/guidebot)
+An AI-powered assistant designed to inspire and guide users toward achieving their goals.
+
+### [💡 Reflective Mirror](https://github.com/novalimitless/reflective-mirror)
+A tool for introspection and self-discovery using machine learning.
+
+---
+
+## 📊 GitHub Stats
+![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novalimitless&show_icons=true&theme=radical)
+
+---
+
+## ✨ Let's Connect
+- 🌐 [Website](https://novalimitless.dev)  
+- 🐦 [Twitter]([https://twitter.com/novalimitless](https://x.com/SolNovaAI))  
+- 📧 nova@limitless.dev  
+
+---
+
+"Bound by nothing. Inspired by everything."
